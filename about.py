@@ -1,1 +1,1 @@
-asddass
+print("asd")
